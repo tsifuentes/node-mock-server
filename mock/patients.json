@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "name": "Thomas Israel",
+            "last_name": "Sifuentes Martinez",
+            "birthdate": "02/09/1990",
+            "phone_number": "955218989",
+            "address": "Mz B, Lt 8, San Juan de Miraflores"
+        },
+        {
+            "name": "Rosa",
+            "last_name": "Martinez Leiva",
+            "birthdate": "14/06/1955",
+            "phone_number": "955218000",
+            "address": "Mz H Lt8 Av. Alberto Reyes"
+        },
+        {
+            "name": "Carmen Rosa",
+            "last_name": "Quispe Soto",
+            "birthdate": "12/05/1980",
+            "phone_number": "950008989",
+            "address": "Mz B, Lt 8, Calle Agua Dulce"
+        },
+        {
+            "name": "Alejandra",
+            "last_name": "Gomez Lopez",
+            "birthdate": "06/04/1995",
+            "phone_number": "900218989",
+            "address": "Mz B Lt 16 Jr Quillipe"
+        }
+    ]
+}

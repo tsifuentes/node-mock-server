@@ -1,7 +1,9 @@
 {
-    "name": "Thomas Israel",
-    "last_name": "Sifuentes Martinez",
-    "birthdate": "02/09/1990",
-    "phone_number": "955218989",
-    "address": "Mz B, Lt 8, San Juan de Miraflores"
+    "data": [{
+        "name": "Thomas Israel",
+        "last_name": "Sifuentes Martinez",
+        "birthdate": "02/09/1990",
+        "phone_number": "955218989",
+        "address": "Mz B, Lt 8, San Juan de Miraflores"
+    }]
 }
