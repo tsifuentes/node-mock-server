@@ -8,7 +8,11 @@ router.get('/', (req, res, next) => {
     if(req.params && !req.query.mem) {
         res.status(200).send(req.params && req.params.id ? patient : patients);
     } else {
-        res.status(200).json(dbUtil);
+        if(req.params.id) {
+            res.status(200).json(dbUtil.data.find((patient) => patient.id = req.params.id));
+        } else {
+            res.status(200).json(dbUtil);
+        }
     }
 });
 module.exports = router;
