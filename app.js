@@ -11,6 +11,8 @@ var patient = require('./routes/patient');
 var calendar = require('./routes/calendar');
 
 var app = express();
+app.use(express.urlencoded());
+app.use(express.json());
 app.use(cors());
 app.options('*', cors());
 // view engine setup
