@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "id": "11",
+            "name": "Matematica",
+            "level": "Primaria"
+        },
+        {
+            "id": "12",
+            "name": "Comunicacion",
+            "level": "Primaria"
+        },
+        {
+            "id": "13",
+            "name": "Educacion Fisica",
+            "level": "Primaria"
+        },
+        {
+            "id": "14",
+            "name": "Arte",
+            "level": "Primaria"
+        },
+        {
+            "id": "15",
+            "name": "Religion",
+            "level": "Primaria"
+        },
+        {
+            "id": "16",
+            "name": "Fisica I",
+            "level": "Primaria"
+        },
+        {
+            "id": "21",
+            "name": "Biologia",
+            "level": "Secundaria"
+        },
+        {
+            "id": "22",
+            "name": "Ingles",
+            "level": "Secundaria"
+        },
+        {
+            "id": "23",
+            "name": "3ro de Secundaria",
+            "level": "Secundaria"
+        },
+        {
+            "id": "24",
+            "name": "4to de Secundaria",
+            "level": "Secundaria"
+        },
+        {
+            "id": "25",
+            "name": "5to de Secundaria",
+            "level": "Secundaria"
+        }
+    ]
+}

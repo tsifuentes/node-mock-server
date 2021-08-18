@@ -8,6 +8,9 @@ const dbUtil = {
         },
         grade: {
             data: []
+        },
+        course: {
+            data: []
         }
     },
     citame: {
