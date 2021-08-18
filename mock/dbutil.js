@@ -1,5 +1,14 @@
 const dbUtil = {
-    data: []
+    escolares: {
+        student: {
+            data: []
+        }
+    },
+    citame: {
+        patient: {
+            data: []
+        }
+    }
 };
 
 module.exports = dbUtil;

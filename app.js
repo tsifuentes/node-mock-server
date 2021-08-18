@@ -9,6 +9,7 @@ var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 var patient = require('./routes/patient');
 var calendar = require('./routes/calendar');
+var student = require('./routes/escolares/student');
 
 var app = express();
 app.use(express.urlencoded());
@@ -29,6 +30,8 @@ app.use('/', indexRouter);
 app.use('/users', usersRouter);
 app.use('/patient', patient);
 app.use('/calendar', calendar);
+
+app.use('/student', student);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
