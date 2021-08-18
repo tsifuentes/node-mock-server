@@ -5,6 +5,9 @@ const dbUtil = {
         },
         teacher: {
             data: []
+        },
+        grade: {
+            data: []
         }
     },
     citame: {

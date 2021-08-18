@@ -11,6 +11,7 @@ var patient = require('./routes/patient');
 var calendar = require('./routes/calendar');
 var student = require('./routes/escolares/student');
 var teacher = require('./routes/escolares/teacher');
+var grade = require('./routes/escolares/grade');
 
 var app = express();
 app.use(express.urlencoded());
@@ -35,6 +36,7 @@ app.use('/calendar', calendar);
 // CITAME APP
 app.use('/student', student);
 app.use('/teacher', teacher);
+app.use('/grade', grade);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {

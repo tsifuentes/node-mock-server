@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "id": "11",
+            "name": "1ro de Primaria",
+            "level": "Primaria"
+        },
+        {
+            "id": "12",
+            "name": "2do de Primaria",
+            "level": "Primaria"
+        },
+        {
+            "id": "13",
+            "name": "3ro de Primaria",
+            "level": "Primaria"
+        },
+        {
+            "id": "14",
+            "name": "4to de Primaria",
+            "level": "Primaria"
+        },
+        {
+            "id": "15",
+            "name": "5to de Primaria",
+            "level": "Primaria"
+        },
+        {
+            "id": "16",
+            "name": "6to de Primaria",
+            "level": "Primaria"
+        },
+        {
+            "id": "21",
+            "name": "1ro de Secundaria",
+            "level": "Secundaria"
+        },
+        {
+            "id": "22",
+            "name": "2do de Secundaria",
+            "level": "Secundaria"
+        },
+        {
+            "id": "23",
+            "name": "3ro de Secundaria",
+            "level": "Secundaria"
+        },
+        {
+            "id": "24",
+            "name": "4to de Secundaria",
+            "level": "Secundaria"
+        },
+        {
+            "id": "25",
+            "name": "5to de Secundaria",
+            "level": "Secundaria"
+        }
+    ]
+}
