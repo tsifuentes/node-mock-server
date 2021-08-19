@@ -1,5 +1,5 @@
 var express = require('express');
-const dbUtil = require('../mock/dbutil');
+const dbUtil = require('../../mock/dbutil');
 var router = express.Router({ mergeParams: true });
 const { uuid } = require('uuidv4');
 

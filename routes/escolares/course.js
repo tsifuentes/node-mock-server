@@ -1,6 +1,6 @@
 var express = require('express');
-const dbUtil = require('../mock/dbUtil');
-var courses = require('../mock/course.json');
+const dbUtil = require('../../mock/dbUtil');
+var courses = require('../../mock/course.json');
 var router = express.Router({ mergeParams: true });
 const { uuid } = require('uuidv4');
 
